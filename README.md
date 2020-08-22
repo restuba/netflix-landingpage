@@ -1,2 +1,2 @@
 # netflix-landingpage
-Created with CodeSandbox
+Build netflix landing page with reactjs and styled-components

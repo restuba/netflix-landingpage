@@ -1,0 +1,26 @@
+/* Global Var */
+:root {
+  --main-red: rgba(211, 9, 19);
+  --main-dark: rgba(20, 20, 20);
+  --main-deep-dark: rgba(0, 0, 0);
+  --main-grey: rgba(153, 153, 153);
+  --main-red-hover: #e50914;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Helvetica";
+  -webkit-font-smoothing: antialiased;
+  background: var(--main-dark);
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
